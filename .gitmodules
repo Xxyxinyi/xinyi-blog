@@ -1,0 +1,3 @@
+[submodule "pixyll"]
+	path = pixyll
+	url = https://github.com/azmelanar/hugo-theme-pixyll
